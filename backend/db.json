@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cadeira Gamer DxRacer",
+      "price": "1999.99"
+    },
+    {
+      "name": "Mesa de escritório",
+      "id": 2,
+      "price": "249.99"
+    },
+    {
+      "id": 3,
+      "name": "Suporte",
+      "price": "199.99"
+    },
+    {
+      "name": "Monitor 27\"",
+      "price": "1299.99",
+      "id": 4
+    },
+    {
+      "name": "Teclado e Mouse sem Fio",
+      "price": "199.99",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Régis Perez"
+    },
+    {
+      "name": "Hideo Kojima",
+      "id": 2
+    },
+    {
+      "name": "Big Boss",
+      "id": 3
+    }
+  ]
+}
